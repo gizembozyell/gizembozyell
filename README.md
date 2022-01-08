@@ -12,10 +12,6 @@
 
 [<img align="left" alt="GBozyelG | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium]
 
-[Linkedin]: https://www.linkedin.com/in/gizem-bozyel/
-
-[Medium]: https://gbozyelg.medium.com/
-
 <br>
 
 ---
@@ -33,7 +29,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://gbozyelg.medium.com/)
-
 <br>
 
 ---
@@ -46,3 +41,7 @@
 
 ---
 ---
+
+[Linkedin]: https://www.linkedin.com/in/gizem-bozyel/
+
+[Medium]: https://gbozyelg.medium.com/
