@@ -34,7 +34,7 @@
 [![gizembozyell's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizembozyell)](https://github.com/gizembozyell/github-readme-stats)
 <br>
 
-[<img align="left" alt="Giselle | Tryhackme" width="250" src="https://tryhackme.com/badge/105633" />][Tryhackme]
+[<img align="left" alt="Giselle | Tryhackme" width="250" src="https://tryhackme-badges.s3.amazonaws.com/Giselle.png" />][Tryhackme]
 <br>
 
 ---
