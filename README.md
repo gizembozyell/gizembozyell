@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning everything.
 - 🥅 Fun fact: I love to play computer games.
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="gizembozyell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
@@ -18,11 +18,31 @@
 
 <br>
 
-### Latest Blog Posts
-<!--- BLOG-POST--->
+---
+---
 
-<img align="left"  alt="gizembozyell's Github Stats" src="https://github-readme-stats-vercel.app/api?username=gizembozyell&show_icons=ture&hide_border=true" />
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [TryHackMe —Active Reconnaissance Walkthrough](https://gbozyelg.medium.com/tryhackme-active-reconnaissance-walkthrough-374436a3ec75)
+
+- [TryHackMe — Passive Reconnaissance Walkthrough](https://gbozyelg.medium.com/tryhackme-passive-reconnaissance-walkthrough-59f0ec3b3b04)
+
+- [TryHackMe — SQL Injection Walkthrough](https://gbozyelg.medium.com/tryhackme-sql-injection-walkthrough-9ee188369c51)
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://gbozyelg.medium.com/)
+
+<br>
+
+---
+---
+
+
+[![gizembozyell's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizembozyell)](https://github.com/gizembozyell/github-readme-stats)
+
+<br>
 
 ---
 ---
