@@ -18,5 +18,11 @@
 
 <br>
 
+### Latest Blog Posts
+<!--- BLOG-POST--->
+
+<img align="left"  alt="gizembozyell's Github Stats" src="https://github-readme-stats-vercel.app/api?username=gizembozyell&show_icons=ture&hide_border=true" />
+
+
 ---
 ---
