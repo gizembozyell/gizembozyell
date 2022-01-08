@@ -32,8 +32,10 @@
 
 ---
 
-[![gizembozyell's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizembozyell)](https://github.com/gizembozyell/github-readme-stats)
-<br>
+[![gizembozyell's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizembozyell&theme=dark)](https://github.com/gizembozyell/github-readme-stats)
+<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gizembozyell&langs_count=3)](https://github.com/gizembozyell/github-readme-stats)
+<br></br>
 
 [<img align="left" alt="Giselle | Tryhackme" width="250" src="https://tryhackme-badges.s3.amazonaws.com/Giselle.png"/>][Tryhackme]
 <br>
