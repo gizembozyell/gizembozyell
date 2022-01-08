@@ -30,7 +30,7 @@
 <br>
 
 ---
-[<img align="left" alt="GBozyelG | Tryhackme" width="22px" src="ttps://tryhackme-badges.s3.amazonaws.com/Giselle.png" />][Tryhackme]
+[<img align="left" alt="GBozyelG | Tryhackme" width="22px" src="ttps://tryhackme-badges.s3.amazonaws.com/Giselle.png" />]
 
 [![gizembozyell's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizembozyell)](https://github.com/gizembozyell/github-readme-stats)
 <br>
