@@ -6,6 +6,10 @@
 
 ### Connect with me
 
-[<img align="left" alt="gizembozyell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/gizem-bozyel]
+[<img align="left" alt="gizembozyell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
-[<img align="left" alt="GBozyelG | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][https://medium.com/@gbozyelg]
+[<img align="left" alt="GBozyelG | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium]
+
+---
+---
+
