@@ -13,7 +13,7 @@
 [<img align="left" alt="GBozyelG | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][Medium]
 
 <br>
-
+ 
 ---
 
 ### 📕 Latest Blog Posts
@@ -30,6 +30,7 @@
 <br>
 
 ---
+[<img align="left" alt="GBozyelG | Tryhackme" width="22px" src="ttps://tryhackme-badges.s3.amazonaws.com/Giselle.png" />][Tryhackme]
 
 [![gizembozyell's GitHub stats](https://github-readme-stats.vercel.app/api?username=gizembozyell)](https://github.com/gizembozyell/github-readme-stats)
 <br>
