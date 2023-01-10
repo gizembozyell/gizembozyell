@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a Junior Penetration Tester and Developer!
+## I'm a Penetration Tester and Developer!
 - 🌱 I'm currently learning everything.
 - :books: I'm currently learning all about IT and Security.
 - 🥅 Fun fact: I love to play computer games.
